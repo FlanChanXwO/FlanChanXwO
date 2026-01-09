@@ -1,6 +1,7 @@
-<!-- 贪吃蛇动画占位符 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlanChanXwO/FlanChanXwO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlanChanXwO/FlanChanXwO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FlanChanXwO/FlanChanXwO/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlanChanXwO&show_icons=true&theme=radical)
