@@ -14,19 +14,12 @@
 
 <br/><br/>
 
-<!-- 3. 统计卡片 (去掉了 align="right" 改为居中，并稍微调整参数使其更协调) -->
+<!-- 3. 统计卡片 -->
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=FlanChanXwO&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6&bg_color=00000000">
 
 <br/><br/>
 
-<!-- 4. 技能图标墙 (Skill Icons) -->
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,ts,nodejs,react,vue,vscode,git,github,postman,selenium,opencv,idea,pycharm,sqlite,mysql,postgres,rabbitmq,redis,ai,maven,linux,debian,docker,bash,jenkins,nginx&perline=10" />
-  </a>
-</p>
-
-<!-- 5. 联系方式 (使用徽章 Badges 更美观) -->
+<!-- 4. 联系方式 (使用徽章 Badges 更美观) -->
 <a href="https://qm.qq.com/q/KIZ2qrJyOm">
   <img src="https://img.shields.io/badge/QQGROUP-1027839334-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ">
 </a>
