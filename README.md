@@ -27,8 +27,8 @@
 </p>
 
 <!-- 5. 联系方式 (使用徽章 Badges 更美观) -->
-<a href="mailto:3085974224@qq.com">
-  <img src="https://img.shields.io/badge/QQ-3085974224-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ">
+<a href="https://qm.qq.com/q/KIZ2qrJyOm">
+  <img src="https://img.shields.io/badge/QQGROUP-1027839334-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ">
 </a>
 <a href="mailto:badapple495@outlook.com">
   <img src="https://img.shields.io/badge/Email-badapple495-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
